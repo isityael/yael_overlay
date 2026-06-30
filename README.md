@@ -1,2 +1,2 @@
-# isityael_overlay
+# yael_overlay
 Just my portage overlay.
